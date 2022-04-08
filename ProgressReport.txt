@@ -1,0 +1,29 @@
+Final Project - Progress Report
+Calvin Lwin & Yashika Chidirala
+
+Goal of the project:
+The idea is to create a code that will compare two athletes that compete in different running events to each other and assess how they rank nationally.  
+The goal is to display the average speeds that the runners raced at as well as what percentile they are in based on these performances and compare these athletes' times during a specific competition level.  
+The code can also determine which athletes are considered “better: based on if the time they ran in their event is nationally better ranked than the other athlete.  
+
+    Goals of this would include
+    - Being able to compare a female athletes time to a male athletes time
+    - Compare two athletes that have competed in different events
+    - Understand what a good mark is in one event versus the other
+
+This will be done by using national databases of athletes at different meets and competitions and compare their performances within that specific competition. 
+We believe this is better than comparing them to their all time bests and their profiles because of how 
+- that information tends to be very protected and can span across too many different websites and 
+- timings are typically directly compared to each other on the day of the athletes both competing and this is because of that is when comparison and analysis is done most in the sport of track. 
+
+Current progress:
+- We have created the rough draft code for the objects of this project
+- We have started to map out ,the web scraper, which will extract info from the site https://www.worldathletics.org
+- The web scraper will require the JSoup library
+- We will need to add  to the methods as to what the marks mean for each event.
+
+Upcoming goals:
+- To complete the development of all the objects and the web scraper
+- To provide ease of usablility to the program user.
+- We will properly implement generics and interfaces to help chane the requirements for the marks of each event based on the data given.
+- Will require iterative development/re-development.
