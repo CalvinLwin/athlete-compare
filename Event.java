@@ -1,0 +1,10 @@
+public enum Event{
+    HIGH_JUMP,
+    POLE_VAULT,
+    MARATHON,
+    LONG_JUMP,
+    JAVELIN,
+    HUNDERD_M_SPRINT,
+    FOUR_HUNDRED_M_SPRINT;
+
+}
